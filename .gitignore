@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+wheels/
+*.egg-info/
+.ruff_cache/
+.pytest_cache/
+.mypy_cache/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+.uv/
+
+# Environment Variables
+.env
+.env.local
+.env.backup
+.env.test
+.env.dev
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+/app.db
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+
+# OS Metadata
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+pip-log.txt
