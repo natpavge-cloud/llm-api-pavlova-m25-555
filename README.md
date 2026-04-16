@@ -11,7 +11,7 @@
 
 1. **Клонирование репозитория:**
 ```bash
-git clone <ссылка_на_репозиторий>
+git clone <https://github.com/natpavge-cloud/llm-api-pavlova-m25-555>
 cd llm-p
 ```
 
